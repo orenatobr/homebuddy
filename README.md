@@ -7,7 +7,9 @@ This repository provides a curated set of Jupyter Notebooks designed to prepare 
 ## 📚 Included Notebooks
 
 ### ✅ 01 - Coding Challenges: Arrays, Trees, and Basic Algorithms
+
 Covers:
+
 - Array manipulation
 - Linear & Binary Search
 - Bubble, Quick, and Merge Sort
@@ -18,7 +20,9 @@ Covers:
 ---
 
 ### ✅ 02 - Data Structures: Lists, Queues, Stacks, Maps, and Graphs
+
 Covers:
+
 - Lists and common operations
 - Queues with `deque`
 - Stacks using `list`
@@ -30,7 +34,9 @@ Covers:
 ---
 
 ### ✅ 03 - Web Services & APIs
+
 Covers:
+
 - REST vs SOAP
 - HTTP status codes
 - JSON vs XML (with examples)
@@ -42,7 +48,9 @@ Covers:
 ---
 
 ### ✅ 04 - Architecture & Scalability
+
 Covers:
+
 - Distributed systems (latency simulation, CAP theorem)
 - Layered architecture (presentation, logic, data)
 - Relational vs NoSQL databases
@@ -52,7 +60,9 @@ Covers:
 ---
 
 ### ✅ 05 - Architecture Patterns & Network Design
+
 Covers:
+
 - DMZ (Demilitarized Zone)
 - Three-tier architecture
 - Microservices
@@ -65,7 +75,9 @@ Covers:
 ---
 
 ### ✅ 06 - Dynamic Programming & Recursion
+
 Covers:
+
 - Recursion and memoization
 - Tabulation (bottom-up DP)
 - Fibonacci comparisons
@@ -76,7 +88,9 @@ Covers:
 ---
 
 ### ✅ 07 - Graph Algorithms: BFS, DFS, Dijkstra
+
 Covers:
+
 - Graph representation with adjacency lists
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
@@ -87,7 +101,9 @@ Covers:
 ---
 
 ### ✅ 08 - Linked Lists and Heaps
+
 Covers:
+
 - Singly Linked List implementation
 - MinHeap & MaxHeap using `heapq`
 - Heap use cases and simulation
@@ -97,7 +113,9 @@ Covers:
 ---
 
 ### ✅ 09 - System Design: Rate Limiter, Cache, URL Shortener
+
 Covers:
+
 - Fixed window rate limiter
 - LRU cache with `OrderedDict`
 - URL shortener with base62 encoding
